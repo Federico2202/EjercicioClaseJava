@@ -1,0 +1,27 @@
+body{
+
+    width: 80%;
+    margin: auto;
+}
+
+body {
+    background: lightcyan;
+}
+h1{
+    font-size: 5em;
+    color: white;
+    background: rgb(240, 70, 70);
+}
+label{
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.lista{
+    width: 35em;
+    height: 15em;
+    border: solid black 1px;
+    background: lightblue;
+}
+.boton{
+    font-size: 1.3em;
+}
